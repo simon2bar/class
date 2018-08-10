@@ -1,6 +1,6 @@
 <?php
 
-#Author - Vijay Nagarajan PhD
+#Author - Sara Alehashemi MD MPH
 #print a string
 print "Hello World\n";
 
